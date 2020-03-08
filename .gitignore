@@ -24,3 +24,6 @@ hs_err_pid*
 .idea/
 mybatis-generator.im
 /.idea/vcs.xml
+/mybatis-generator-core.iml
+/mybatis-generator.iml
+/target
